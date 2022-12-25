@@ -1,4 +1,4 @@
-<img src="https://github.com/Melkitaulamunn/Melkitaulamunn/blob/main/Lucdamienga%20Giflucdamienga%20Sticker%20-%20Lucdamienga%20Giflucdamienga%20Hola%20-%20Discover%20%26%20Share%20GIFs.gif" width="50px">
+<img src="https://github.com/Melkitaulamunn/Melkitaulamunn/blob/main/Lucdamienga%20Giflucdamienga%20Sticker%20-%20Lucdamienga%20Giflucdamienga%20Hola%20-%20Discover%20%26%20Share%20GIFs.gif" width="300px">
 
 <!--
 **Melkitaulamunn/Melkitaulamunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
