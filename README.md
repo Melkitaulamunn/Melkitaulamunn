@@ -2,7 +2,7 @@
 <h1> I'm Ayşe🎈🙃 </h1>
 
 # 💫 About Me:
-✌ Holaa! I'm Ayşe...<br>👻 I’m looking to collaborate on<br>👀 I’m looking for help with javaScript,Python<br>🌱I love learning new things , I’m currently learning React ,Python,Sass..<br>💬 Ask me about everything..<br>⚡ I like cycling<br>🎃I like to spend time in the kitchen..<br>💭I combine the magic of imagination with codes..<br>🎈I have a weakness for balloons, cotton candy, chestnuts, roasted corn...<br>⛅And the sky is incredibly inspiring...<br><br><br><br>
+✌ Holaa! I'm Ayşe...<br>👻 I’m looking to collaborate on<br>👀 I’m looking for help with React,javaScript,Python,React Native<br>🌱I love learning new things , I’m currently learning React ,Python,Sass,React-Redux,React-Native,Redux-Toolkit..<br>💬 Ask me about everything..<br>⚡ I like cycling<br>🎃I like to spend time in the kitchen..<br>💭I combine the magic of imagination with codes..<br>🎈I have a weakness for balloons, cotton candy, chestnuts, roasted corn...<br>⛅And the sky is incredibly inspiring...<br><br><br><br>
 
 
 ## 🌐 Socials:
